@@ -1,0 +1,458 @@
+BCSymbolMap Version: 2.0
+-[Play2VC viewDidLoad]
+-[Play2VC b1Touched:]
+-[Play2VC b2Touched:]
+-[Play2VC b3Touched:]
+-[Play2VC b4Touched:]
+-[Play2VC b5Touched:]
+-[Play2VC b6Touched:]
+-[Play2VC b7Touched:]
+-[Play2VC b8Touched:]
+-[Play2VC b9Touched:]
+-[Play2VC setScreen]
+-[Play2VC setButtons]
+-[Play2VC getColor:]
+-[Play2VC setArray]
+-[Play2VC timerLabel:]
+-[Play2VC showDialogue:]
+-[Play2VC exampleAttributeString:]
+-[Play2VC draggableDialogView:didPressFirstButton:]
+-[Play2VC draggingDidBegin:]
+-[Play2VC draggingDidEnd:]
+-[Play2VC draggableDialogViewWillDismiss:]
+-[Play2VC draggableDialogViewDismissed:]
+-[Play2VC jt_imageWithView:]
+-[Play2VC levelLabel]
+-[Play2VC setLevelLabel:]
+-[Play2VC timerLabel]
+-[Play2VC setTimerLabel:]
+-[Play2VC questionLabel]
+-[Play2VC setQuestionLabel:]
+-[Play2VC b1]
+-[Play2VC setB1:]
+-[Play2VC b2]
+-[Play2VC setB2:]
+-[Play2VC b3]
+-[Play2VC setB3:]
+-[Play2VC b4]
+-[Play2VC setB4:]
+-[Play2VC b5]
+-[Play2VC setB5:]
+-[Play2VC b6]
+-[Play2VC setB6:]
+-[Play2VC b7]
+-[Play2VC setB7:]
+-[Play2VC b8]
+-[Play2VC setB8:]
+-[Play2VC b9]
+-[Play2VC setB9:]
+-[Play2VC .cxx_destruct]
+_OBJC_CLASS_$_Play2VC
+_OBJC_IVAR_$_Play2VC.score
+_OBJC_IVAR_$_Play2VC.count
+_OBJC_IVAR_$_Play2VC.level
+_OBJC_IVAR_$_Play2VC.timer
+_OBJC_IVAR_$_Play2VC.t
+_OBJC_IVAR_$_Play2VC._b1
+_OBJC_IVAR_$_Play2VC.answer
+_OBJC_IVAR_$_Play2VC._b2
+_OBJC_IVAR_$_Play2VC._b3
+_OBJC_IVAR_$_Play2VC._b4
+_OBJC_IVAR_$_Play2VC._b5
+_OBJC_IVAR_$_Play2VC._b6
+_OBJC_IVAR_$_Play2VC._b7
+_OBJC_IVAR_$_Play2VC._b8
+_OBJC_IVAR_$_Play2VC._b9
+_OBJC_IVAR_$_Play2VC.dataArray
+_OBJC_IVAR_$_Play2VC.random
+_OBJC_IVAR_$_Play2VC.randomButton
+_OBJC_IVAR_$_Play2VC.selectedData
+_OBJC_IVAR_$_Play2VC.selectedColor
+_OBJC_IVAR_$_Play2VC._levelLabel
+_OBJC_IVAR_$_Play2VC.data
+_OBJC_IVAR_$_Play2VC._timerLabel
+_OBJC_IVAR_$_Play2VC._questionLabel
+_OBJC_IVAR_$_Play2VC.type
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_SFDraggableDialogViewDelegate
+l_OBJC_LABEL_PROTOCOL_$_SFDraggableDialogViewDelegate
+_OBJC_METACLASS_$_Play2VC
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/Play2VC.m
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/Play2VC.h
+-[Play1VC viewDidLoad]
+-[Play1VC b1Touched:]
+-[Play1VC b2Touched:]
+-[Play1VC b3Touched:]
+-[Play1VC b4Touched:]
+-[Play1VC b5Touched:]
+-[Play1VC b6Touched:]
+-[Play1VC b7Touched:]
+-[Play1VC b8Touched:]
+-[Play1VC b9Touched:]
+-[Play1VC b10Touched:]
+-[Play1VC b11Touched:]
+-[Play1VC b12Touched:]
+-[Play1VC setScreen]
+-[Play1VC setButtons]
+-[Play1VC getColor:]
+-[Play1VC setArray]
+-[Play1VC timerLabel:]
+-[Play1VC showDialogue:]
+-[Play1VC exampleAttributeString:]
+-[Play1VC draggableDialogView:didPressFirstButton:]
+-[Play1VC draggingDidBegin:]
+-[Play1VC draggingDidEnd:]
+-[Play1VC draggableDialogViewWillDismiss:]
+-[Play1VC draggableDialogViewDismissed:]
+-[Play1VC jt_imageWithView:]
+-[Play1VC levelLabel]
+-[Play1VC setLevelLabel:]
+-[Play1VC timerLabel]
+-[Play1VC setTimerLabel:]
+-[Play1VC questionLabel]
+-[Play1VC setQuestionLabel:]
+-[Play1VC b1]
+-[Play1VC setB1:]
+-[Play1VC b2]
+-[Play1VC setB2:]
+-[Play1VC b3]
+-[Play1VC setB3:]
+-[Play1VC b4]
+-[Play1VC setB4:]
+-[Play1VC b5]
+-[Play1VC setB5:]
+-[Play1VC b6]
+-[Play1VC setB6:]
+-[Play1VC b7]
+-[Play1VC setB7:]
+-[Play1VC b8]
+-[Play1VC setB8:]
+-[Play1VC b9]
+-[Play1VC setB9:]
+-[Play1VC b10]
+-[Play1VC setB10:]
+-[Play1VC b11]
+-[Play1VC setB11:]
+-[Play1VC b12]
+-[Play1VC setB12:]
+-[Play1VC .cxx_destruct]
+_OBJC_CLASS_$_Play1VC
+_OBJC_IVAR_$_Play1VC.score
+_OBJC_IVAR_$_Play1VC.count
+_OBJC_IVAR_$_Play1VC.level
+_OBJC_IVAR_$_Play1VC.timer
+_OBJC_IVAR_$_Play1VC.t
+_OBJC_IVAR_$_Play1VC._b1
+_OBJC_IVAR_$_Play1VC.answer
+_OBJC_IVAR_$_Play1VC._b2
+_OBJC_IVAR_$_Play1VC._b3
+_OBJC_IVAR_$_Play1VC._b4
+_OBJC_IVAR_$_Play1VC._b5
+_OBJC_IVAR_$_Play1VC._b6
+_OBJC_IVAR_$_Play1VC._b7
+_OBJC_IVAR_$_Play1VC._b8
+_OBJC_IVAR_$_Play1VC._b9
+_OBJC_IVAR_$_Play1VC._b10
+_OBJC_IVAR_$_Play1VC._b11
+_OBJC_IVAR_$_Play1VC._b12
+_OBJC_IVAR_$_Play1VC.dataArray
+_OBJC_IVAR_$_Play1VC.random
+_OBJC_IVAR_$_Play1VC.randomButton
+_OBJC_IVAR_$_Play1VC.selectedData
+_OBJC_IVAR_$_Play1VC.selectedColor
+_OBJC_IVAR_$_Play1VC._levelLabel
+_OBJC_IVAR_$_Play1VC.data
+_OBJC_IVAR_$_Play1VC._timerLabel
+_OBJC_IVAR_$_Play1VC._questionLabel
+_OBJC_IVAR_$_Play1VC.type
+_OBJC_METACLASS_$_Play1VC
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/Play1VC.m
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/Play1VC.h
+-[UIImage(ImageEffects) applyLightEffect]
+-[UIImage(ImageEffects) applyExtraLightEffect]
+-[UIImage(ImageEffects) applyDarkEffect]
+-[UIImage(ImageEffects) applyTintEffectWithColor:]
+-[UIImage(ImageEffects) applyBlurWithRadius:tintColor:saturationDeltaFactor:maskImage:]
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/SFDraggableDialogView-master/SFDraggableDialogView/UIImage+ImageEffects.m
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController findDifferenceButtonTouched:]
+-[ViewController brainAndColorButtonTouched:]
+-[ViewController tenSecondChalllangeButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/ViewController.m
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/main.m
+main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/AppDelegate.h
+-[SFDraggableDialogView awakeFromNib]
+-[SFDraggableDialogView drawRect:]
+-[SFDraggableDialogView defaultSetup]
+-[SFDraggableDialogView dealloc]
+-[SFDraggableDialogView showCancelArrow:]
+___41-[SFDraggableDialogView showCancelArrow:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+___41-[SFDraggableDialogView showCancelArrow:]_block_invoke.105
+___copy_helper_block_.106
+___destroy_helper_block_.107
+-[SFDraggableDialogView cancelViewAlpha:]
+-[SFDraggableDialogView dismissWithDrop:]
+-[SFDraggableDialogView dismissWithDrop:completion:]
+___52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke
+___copy_helper_block_.115
+___destroy_helper_block_.116
+___52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke.118
+___copy_helper_block_.121
+___destroy_helper_block_.122
+___52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke.133
+___copy_helper_block_.136
+___destroy_helper_block_.137
+-[SFDraggableDialogView showBlurView:]
+___38-[SFDraggableDialogView showBlurView:]_block_invoke
+___copy_helper_block_.141
+___destroy_helper_block_.142
+___38-[SFDraggableDialogView showBlurView:]_block_invoke.144
+___copy_helper_block_.145
+___destroy_helper_block_.146
+-[SFDraggableDialogView highlight:btn:]
+-[SFDraggableDialogView addGestureRecognizer]
+-[SFDraggableDialogView handlePan:]
+___35-[SFDraggableDialogView handlePan:]_block_invoke
+___copy_helper_block_.208
+___destroy_helper_block_.209
+___35-[SFDraggableDialogView handlePan:]_block_invoke.244
+___copy_helper_block_.247
+___destroy_helper_block_.248
+-[SFDraggableDialogView angleOfView:]
+-[SFDraggableDialogView calculateDirectionFromVelocity:]
+-[SFDraggableDialogView dropToCenter]
+___37-[SFDraggableDialogView dropToCenter]_block_invoke
+___copy_helper_block_.259
+___destroy_helper_block_.260
+-[SFDraggableDialogView dropDown]
+-[SFDraggableDialogView setSize:]
+-[SFDraggableDialogView setCloseBtnImage:]
+-[SFDraggableDialogView setCornerRadius:]
+-[SFDraggableDialogView setDialogBackgroundColor:]
+-[SFDraggableDialogView setPhoto:]
+-[SFDraggableDialogView setTitleText:]
+-[SFDraggableDialogView setMessageText:]
+-[SFDraggableDialogView setHideCloseButton:]
+-[SFDraggableDialogView setBackgroundShadowOpacity:]
+-[SFDraggableDialogView setFirstBtnText:]
+-[SFDraggableDialogView setFirstBtnTextColor:]
+-[SFDraggableDialogView setFirstBtnFont:]
+-[SFDraggableDialogView setFirstBtnBackgroundColor:]
+-[SFDraggableDialogView setSecondBtnText:]
+-[SFDraggableDialogView setSecondBtnBackgroundColor:]
+-[SFDraggableDialogView setSecondBtnFont:]
+-[SFDraggableDialogView setSecondBtnTextColor:]
+-[SFDraggableDialogView setContentViewType:]
+-[SFDraggableDialogView setCancelArrowText:]
+-[SFDraggableDialogView setCancelArrowImage:]
+-[SFDraggableDialogView createBlurBackgroundWithImage:tintColor:blurRadius:]
+-[SFDraggableDialogView setShowSecondBtn:]
+-[SFDraggableDialogView firstBtnPressed:]
+-[SFDraggableDialogView secondBtnPressed:]
+-[SFDraggableDialogView closeBtnPressed:]
+-[SFDraggableDialogView backgroundImageBtnPressed:]
+-[SFDraggableDialogView firstBtnTouchDownEvent:]
+-[SFDraggableDialogView secondBtnTouchDownEvent:]
+-[SFDraggableDialogView arrowBtnPressed:]
+-[SFDraggableDialogView arrowBtnTouchDown:]
+-[SFDraggableDialogView arrowBtnTouchCanceled:]
+___47-[SFDraggableDialogView arrowBtnTouchCanceled:]_block_invoke
+___copy_helper_block_.335
+___destroy_helper_block_.336
+-[SFDraggableDialogView arrowBtnTouchDragInside:]
+___49-[SFDraggableDialogView arrowBtnTouchDragInside:]_block_invoke
+___copy_helper_block_.338
+___destroy_helper_block_.339
+-[SFDraggableDialogView arrowBtnTouchDragOutside:]
+___50-[SFDraggableDialogView arrowBtnTouchDragOutside:]_block_invoke
+___copy_helper_block_.341
+___destroy_helper_block_.342
+-[SFDraggableDialogView size]
+-[SFDraggableDialogView cornerRadius]
+-[SFDraggableDialogView backgroundShadowOpacity]
+-[SFDraggableDialogView dialogBackgroundColor]
+-[SFDraggableDialogView firstBtnBackgroundColor]
+-[SFDraggableDialogView firstBtnTextColor]
+-[SFDraggableDialogView firstBtnFont]
+-[SFDraggableDialogView secondBtnBackgroundColor]
+-[SFDraggableDialogView secondBtnTextColor]
+-[SFDraggableDialogView secondBtnFont]
+-[SFDraggableDialogView closeBtnImage]
+-[SFDraggableDialogView photo]
+-[SFDraggableDialogView titleText]
+-[SFDraggableDialogView messageText]
+-[SFDraggableDialogView firstBtnText]
+-[SFDraggableDialogView secondBtnText]
+-[SFDraggableDialogView cancelArrowText]
+-[SFDraggableDialogView cancelArrowImage]
+-[SFDraggableDialogView contentViewType]
+-[SFDraggableDialogView hideCloseButton]
+-[SFDraggableDialogView showSecondBtn]
+-[SFDraggableDialogView isDraggable]
+-[SFDraggableDialogView setDraggable:]
+-[SFDraggableDialogView customView]
+-[SFDraggableDialogView setCustomView:]
+-[SFDraggableDialogView delegate]
+-[SFDraggableDialogView setDelegate:]
+-[SFDraggableDialogView backgroundImageBtn]
+-[SFDraggableDialogView setBackgroundImageBtn:]
+-[SFDraggableDialogView dialogView]
+-[SFDraggableDialogView setDialogView:]
+-[SFDraggableDialogView shadowView]
+-[SFDraggableDialogView setShadowView:]
+-[SFDraggableDialogView cancelViewBottom]
+-[SFDraggableDialogView setCancelViewBottom:]
+-[SFDraggableDialogView photoImageView]
+-[SFDraggableDialogView setPhotoImageView:]
+-[SFDraggableDialogView messageLbl]
+-[SFDraggableDialogView setMessageLbl:]
+-[SFDraggableDialogView titleLbl]
+-[SFDraggableDialogView setTitleLbl:]
+-[SFDraggableDialogView cancelArrowBtnBottom]
+-[SFDraggableDialogView setCancelArrowBtnBottom:]
+-[SFDraggableDialogView cancelArrowImageViewTop]
+-[SFDraggableDialogView setCancelArrowImageViewTop:]
+-[SFDraggableDialogView cancelArrowImageViewBottom]
+-[SFDraggableDialogView setCancelArrowImageViewBottom:]
+-[SFDraggableDialogView defaultView]
+-[SFDraggableDialogView setDefaultView:]
+-[SFDraggableDialogView firstBtn]
+-[SFDraggableDialogView setFirstBtn:]
+-[SFDraggableDialogView secondBtn]
+-[SFDraggableDialogView setSecondBtn:]
+-[SFDraggableDialogView closeBtn]
+-[SFDraggableDialogView setCloseBtn:]
+-[SFDraggableDialogView gestureRecognizer]
+-[SFDraggableDialogView setGestureRecognizer:]
+-[SFDraggableDialogView animator]
+-[SFDraggableDialogView setAnimator:]
+-[SFDraggableDialogView panDirection]
+-[SFDraggableDialogView setPanDirection:]
+-[SFDraggableDialogView dialogViewHeightCns]
+-[SFDraggableDialogView setDialogViewHeightCns:]
+-[SFDraggableDialogView dialogViewWidthCns]
+-[SFDraggableDialogView setDialogViewWidthCns:]
+-[SFDraggableDialogView dialogViewCenterYCns]
+-[SFDraggableDialogView setDialogViewCenterYCns:]
+-[SFDraggableDialogView infoCustomViewViewVerticalOffsetCns]
+-[SFDraggableDialogView setInfoCustomViewViewVerticalOffsetCns:]
+-[SFDraggableDialogView gameOverCustomViewVerticalOffsetCns]
+-[SFDraggableDialogView setGameOverCustomViewVerticalOffsetCns:]
+-[SFDraggableDialogView pauseCustomViewVerticalOffsetCns]
+-[SFDraggableDialogView setPauseCustomViewVerticalOffsetCns:]
+-[SFDraggableDialogView defaultViewVerticalOffsetCns]
+-[SFDraggableDialogView setDefaultViewVerticalOffsetCns:]
+-[SFDraggableDialogView .cxx_destruct]
+_OBJC_CLASS_$_SFDraggableDialogView
+_OBJC_IVAR_$_SFDraggableDialogView._photo
+_OBJC_IVAR_$_SFDraggableDialogView._closeBtn
+___block_descriptor_tmp
+___block_descriptor_tmp.108
+_OBJC_IVAR_$_SFDraggableDialogView._cancelArrowImageViewTop
+_OBJC_IVAR_$_SFDraggableDialogView._cancelViewBottom
+___block_descriptor_tmp.117
+___block_descriptor_tmp.124
+___block_descriptor_tmp.138
+___block_descriptor_tmp.143
+___block_descriptor_tmp.147
+_OBJC_IVAR_$_SFDraggableDialogView._draggable
+_handlePan:.attachment
+_handlePan:.startCenter
+_handlePan:.lastTime
+_handlePan:.lastAngle
+_handlePan:.angularVelocity
+___block_descriptor_tmp.210
+_OBJC_IVAR_$_SFDraggableDialogView._cancelArrowText
+___block_descriptor_tmp.249
+___block_descriptor_tmp.261
+_OBJC_IVAR_$_SFDraggableDialogView._size
+_OBJC_IVAR_$_SFDraggableDialogView._closeBtnImage
+_OBJC_IVAR_$_SFDraggableDialogView._cornerRadius
+_OBJC_IVAR_$_SFDraggableDialogView._dialogBackgroundColor
+_OBJC_IVAR_$_SFDraggableDialogView._titleText
+_OBJC_IVAR_$_SFDraggableDialogView._titleLbl
+_OBJC_IVAR_$_SFDraggableDialogView._messageText
+_OBJC_IVAR_$_SFDraggableDialogView._messageLbl
+_OBJC_IVAR_$_SFDraggableDialogView._hideCloseButton
+_OBJC_IVAR_$_SFDraggableDialogView._backgroundShadowOpacity
+_OBJC_IVAR_$_SFDraggableDialogView._firstBtnText
+_OBJC_IVAR_$_SFDraggableDialogView._firstBtnTextColor
+_OBJC_IVAR_$_SFDraggableDialogView._firstBtnFont
+_OBJC_IVAR_$_SFDraggableDialogView._firstBtnBackgroundColor
+_OBJC_IVAR_$_SFDraggableDialogView._secondBtnText
+_OBJC_IVAR_$_SFDraggableDialogView._secondBtnBackgroundColor
+_OBJC_IVAR_$_SFDraggableDialogView._secondBtnFont
+_OBJC_IVAR_$_SFDraggableDialogView._secondBtnTextColor
+_OBJC_IVAR_$_SFDraggableDialogView._contentViewType
+_OBJC_IVAR_$_SFDraggableDialogView._cancelArrowImageViewBottom
+_OBJC_IVAR_$_SFDraggableDialogView._cancelArrowBtnBottom
+_OBJC_IVAR_$_SFDraggableDialogView._cancelArrowImage
+_OBJC_IVAR_$_SFDraggableDialogView._showSecondBtn
+___block_descriptor_tmp.337
+___block_descriptor_tmp.340
+___block_descriptor_tmp.343
+_OBJC_IVAR_$_SFDraggableDialogView._customView
+_OBJC_IVAR_$_SFDraggableDialogView._delegate
+_OBJC_IVAR_$_SFDraggableDialogView._backgroundImageBtn
+_OBJC_IVAR_$_SFDraggableDialogView._dialogView
+_OBJC_IVAR_$_SFDraggableDialogView._shadowView
+_OBJC_IVAR_$_SFDraggableDialogView._photoImageView
+_OBJC_IVAR_$_SFDraggableDialogView._defaultView
+_OBJC_IVAR_$_SFDraggableDialogView._firstBtn
+_OBJC_IVAR_$_SFDraggableDialogView._secondBtn
+_OBJC_IVAR_$_SFDraggableDialogView._gestureRecognizer
+_OBJC_IVAR_$_SFDraggableDialogView._animator
+_OBJC_IVAR_$_SFDraggableDialogView._panDirection
+_OBJC_IVAR_$_SFDraggableDialogView._dialogViewHeightCns
+_OBJC_IVAR_$_SFDraggableDialogView._dialogViewWidthCns
+_OBJC_IVAR_$_SFDraggableDialogView._dialogViewCenterYCns
+_OBJC_IVAR_$_SFDraggableDialogView._infoCustomViewViewVerticalOffsetCns
+_OBJC_IVAR_$_SFDraggableDialogView._gameOverCustomViewVerticalOffsetCns
+_OBJC_IVAR_$_SFDraggableDialogView._pauseCustomViewVerticalOffsetCns
+_OBJC_IVAR_$_SFDraggableDialogView._defaultViewVerticalOffsetCns
+_OBJC_METACLASS_$_SFDraggableDialogView
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/SFDraggableDialogView-master/SFDraggableDialogView/SFDraggableDialogView.m
+/Users/Macbook/Desktop/60 Dollars Apps/Color Sense Master/Color Sense Master/SFDraggableDialogView-master/SFDraggableDialogView/SFDraggableDialogView.h
+__destroy_helper_block_
+__copy_helper_block_
+__50-[SFDraggableDialogView arrowBtnTouchDragOutside:]_block_invoke
+__49-[SFDraggableDialogView arrowBtnTouchDragInside:]_block_invoke
+__47-[SFDraggableDialogView arrowBtnTouchCanceled:]_block_invoke
+CGPointMake
+/Users/Macbook/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__37-[SFDraggableDialogView dropToCenter]_block_invoke
+__35-[SFDraggableDialogView handlePan:]_block_invoke.244
+__35-[SFDraggableDialogView handlePan:]_block_invoke
+UIOffsetMake
+/Users/Macbook/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+__38-[SFDraggableDialogView showBlurView:]_block_invoke.144
+__38-[SFDraggableDialogView showBlurView:]_block_invoke
+__52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke.133
+__52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke.118
+__52-[SFDraggableDialogView dismissWithDrop:completion:]_block_invoke
+__41-[SFDraggableDialogView showCancelArrow:]_block_invoke.105
+__41-[SFDraggableDialogView showCancelArrow:]_block_invoke
